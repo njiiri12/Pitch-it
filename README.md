@@ -1,5 +1,5 @@
 ## PROJECT  NAME 
- -ON  MINUTE PITCH
+ -ONE  MINUTE PITCH
 
 ## AUTHOR
  - Yvonne Njiiri
