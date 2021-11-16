@@ -55,7 +55,7 @@ The users will submit their one minute pitches and other users will vote on them
 - Users can view the different categories. 
 
 ## Technologies used
-* Python3
+* Python3.8
 * Flask
 * Javascript
 * Particle Js
