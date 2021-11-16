@@ -122,4 +122,4 @@ https://njiiripitches.herokuapp.com//
 
 ## License
 
-#### [*GNU License*](LICENSE)
+#### [*GNU License*](
