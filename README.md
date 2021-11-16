@@ -58,7 +58,7 @@ The users will submit their one minute pitches and other users will vote on them
 * Python3.8
 * Flask
 * Javascript
-* Particle Js AND USED UBUNTU2O.4
+* Particle Js 
 * Html5
 * Css3
 * Bootstrap4
