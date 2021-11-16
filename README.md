@@ -1,7 +1,7 @@
 ## PROJECT  NAME 
  - ONE MINUTE PITCH 
 
-## AUTHO
+## AUTHOR
  - Yvonne Njiiri
 
  ## DESCRIPTION 
