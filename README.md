@@ -120,6 +120,6 @@ After extracting the files,
 https://njiiripitches.herokuapp.com//
 
 
-## License 
+## License
 
 #### [*GNU License*](LICENSE)
