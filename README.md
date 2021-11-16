@@ -70,7 +70,7 @@ To work with ONE MINUTE PITCH App you need to have some few prerequisites.
 
 - Python3.8
 
-- pi
+- pip
 
 - Flask 
 
