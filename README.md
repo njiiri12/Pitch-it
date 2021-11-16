@@ -1,5 +1,5 @@
 ## PROJECT  NAME 
- - ONE MINUTE
+ - ONE MINUTE 
 
 ## AUTHOR
  - Yvonne Njiiri
